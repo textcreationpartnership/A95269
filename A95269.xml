@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the routing the Scotish army near Dunbar, Sept. 3. instant: the particulars of the fight, numbers slain, and prize taken. With an exact list of the names of the prisoners. Certified by letters from the head-quarters of the Army, Septemb. 4. Also the Lord Generals proclamation concerning the prisoners and wounded men left in the field. Imprimatur Joh: Rushworth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95269</idno>
+            <idno type="STC">Wing T3040</idno>
+            <idno type="STC">Thomason E612_9</idno>
+            <idno type="STC">ESTC R203837</idno>
+            <idno type="EEBO-CITATION">99863641</idno>
+            <idno type="PROQUEST">99863641</idno>
+            <idno type="VID">115851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the routing the Scotish army near Dunbar, Sept. 3. instant: the particulars of the fight, numbers slain, and prize taken. With an exact list of the names of the prisoners. Certified by letters from the head-quarters of the Army, Septemb. 4. Also the Lord Generals proclamation concerning the prisoners and wounded men left in the field. Imprimatur Joh: Rushworth.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 9. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115851:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>A TRUE RELATION OF THE Routing the Scotiſh ARMY near <hi>Dunbar,</hi> Sept. 3. inſtant: The Particulars of the Fight, Num<g ref="char:EOLhyphen"/>bers ſlain, and Prize taken.</p>
+            <p>With an exact Liſt of the Names of the PRISONERS.</p>
+            <p>
+               <hi>Certified by Letters from the Head-Quarters of the Army,</hi> Septemb. 4.</p>
+            <p>Alſo the Lord Generals Proclamation concerning the Priſoners and wounded men left in the Field.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Joh: Ruſhworth.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Sept. 9. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115851:2"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="3" facs="tcp:115851:2"/>
+            <!-- PDF PAGE 46 -->
+            <head>A TRUE RELATION OF THE Routing the Scotiſh ARMY Near <hi>Dunbar, Sept.</hi> 3. inſtant.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Saturday, Auguſt 31. the Army marched to <hi>Haddington,</hi> where in the night time the Enemy attempted with a Party of mounted Musketiers to come near the Town-walls, and there made a volley of ſhot, which our men per<g ref="char:EOLhyphen"/>mitted, until they had received them within ſhot; and then our Foot, being of Colonel <hi>Fairfax</hi>'s Regiment, and himſelf leading them up, fired, and ſent them back in a full career; we loſt not one man, Captain <hi>White</hi> of Colonel <hi>Fleetwoods</hi> Regiment, had his Horſe ſhot under him, and himſelf bruiſed. The Ene<g ref="char:EOLhyphen"/>my
+<pb n="4" facs="tcp:115851:3"/>
+               <!-- PDF PAGE 47 -->my left two dead behinde them, beſides what was hurt.</p>
+            <p>On Sunday, Sept. 1. The General march'd the Army <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Dunbar,</hi> the Enemy march'd about two miles di<g ref="char:EOLhyphen"/>ſtant in the Rear; his Excellency drew out the Army into the Field cloſe by the Town, and the Enemy flanckt us upon the Hills on the right hand, where they lay all night within a mile of our Army; they ſent a Party to poſſeſs the Paſs at <hi>Copperſpeth,</hi> to cut off correſpondency betwixt us and <hi>Berwick.</hi>
+            </p>
+            <p>All Monday, Septemb. 2. our men ſtood in Batta<g ref="char:EOLhyphen"/>lia in the Field, we could not go up to engage the Enemy by reaſon of the Hills, nor would they come down to give us battel; but that night it pleaſed the Lord wonderfully to look upon us, not onely in a happy Deliverance, but a ſingular and glorious Vi<g ref="char:EOLhyphen"/>ctory: a Party of ours advancing to gain the wind of the Enemy, were diſcovered by a Party of theirs who came to alarm us; but notwithſtanding (through the Lords great mercy) after above an hours diſpute at the Paſs, upon the Road-way between <hi>Dunbar</hi> and <hi>Berwick,</hi> our men obtained their end, poſſeſſed the Paſs, whereby we might with eaſe come over with our Army, which was proſecuted ſo effectually, that a<g ref="char:EOLhyphen"/>bout break of the day on Tueſday morning both Ar<g ref="char:EOLhyphen"/>mies were engaged; out Horſe and Foot charged them ſo reſolutely upon a ſteep Hill, that they ſtood onely two ſhocks, and ſoon left their Train; the Foot threw down their Arms, and both Horſe and Foot ran ſe<g ref="char:EOLhyphen"/>veral ways, ſome towards <hi>Copperſpeth,</hi> but the great<g ref="char:EOLhyphen"/>eſt part towards <hi>Edenburgh;</hi> we purſued them as far
+<pb n="5" facs="tcp:115851:3"/>
+               <!-- PDF PAGE 47 -->as <hi>Haddington,</hi> killing and wounding them all the way: There were above 4000 ſlain upon the place, and in the purſuit, about 10000 taken Priſoners, moſt of which are wounded; many of note and quality taken, the Lord <hi>Liberton,</hi> Lieutenant General <hi>Lumſ<g ref="char:EOLhyphen"/>den,</hi> and many more, of whoſe names, and the names of the Officers of note taken, a Liſt is encloſed as was given in to the Marſhal General; there are more brought in hourly: Their word was, <hi>For the Cove<g ref="char:EOLhyphen"/>nant of Faith;</hi> ours, <hi>The Lord of Hoſts:</hi> And in<g ref="char:EOLhyphen"/>deed, this is the Lord of Hoſts his own doings, and it is marvellous in our eyes; <hi>The Lord of Hoſts was above the Covenant:</hi> We took all their Train, being 32 Pieces of Ordnance, ſmall, great, and leather Guns, all their Foot Colours, beſides Horſe; there are already brought in near 200 Colours, Horſe and Foot, all their Arms, Tents, Bag and Baggage; this is a juſt judgement upon the Enemy, who the day be<g ref="char:EOLhyphen"/>fore having taken about 30 of Col: <hi>Prides</hi> men, who being to poſſeſs a Houſe between our Army and theirs, &amp; not ſeconded by thoſe appointed to bring them off; the Enemy killed three of them, and wounded all the reſt after Quarter given: The Lord Generals Regi<g ref="char:EOLhyphen"/>ment of Foot this day led the Van, and charged the Enemy with much Reſolution, and were ſeconded by Colonel <hi>Prides</hi> men, who were even with ſome of them for their cruel uſage to their fellow Soldiers the day before; we loſt not Forty men in the whole In<g ref="char:EOLhyphen"/>gagement, and no Officer that I can hear of but Ma<g ref="char:EOLhyphen"/>jor <hi>Rooksby,</hi> who dyed of his wounds the next day; Captain <hi>Lloyd</hi> of Lieutenant General <hi>Fleetwoods</hi> Re<g ref="char:EOLhyphen"/>giment
+<pb n="6" facs="tcp:115851:4"/>
+               <!-- PDF PAGE 48 -->ſorely wounded, Major General <hi>Whaley</hi> had his Horſe ſhot under him the firſt charge, himſelf ſlightly wounded, his Regiment charged through the Enemies whole Army, and back again with little loſs: Major <hi>Straughan</hi> was in this Fight and charged deſ<g ref="char:EOLhyphen"/>perately; Lieutenant General <hi>Leſley</hi>'s Servant was taken; there were of note of the Enemies killed that we already hear of, Colonel <hi>Gilbert Kerr,</hi> Colonel <hi>Gray</hi> (formerly an Adjutant General in our Army) and Lieutenant Colonel <hi>Croxon.</hi> We took from all their Foot ſhort skeans and long knives (ſuch as the Iriſh uſe) to ſtab a man when they come within him.</p>
+            <closer>
+               <dateline>
+                  <hi>Dunbar,</hi> 
+                  <date>
+                     <hi>Septemb.</hi> 4. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list">
+            <pb n="7" facs="tcp:115851:4"/>
+            <!-- PDF PAGE 48 -->
+            <head>A Liſt of the Scots TAKEN PRISONERS Near <hi>Dunbar,</hi> Sept. 3. 1650.</head>
+            <list>
+               <item>THe Lord Liber<g ref="char:EOLhyphen"/>ton.</item>
+               <item>Lieut: Gen: Sir James Lumſden Lieut: Gen: of Horſe.</item>
+               <item>The Lord Grandiſon.</item>
+               <item>Sir John Brown.</item>
+               <item>Colonel Sir William Douglas.</item>
+               <item>Colonel Gurdon.</item>
+               <item>Lieut: Colonel Walter Hamilton.</item>
+               <item>Lieut: Col. Wallis.</item>
+               <item>Lieut: Col. Leſley.</item>
+               <item>Lieut: Col. Murray.</item>
+               <item>Lieut: Colonel Henry Malwin.</item>
+               <item>Lieut: Col. Forbus.</item>
+               <item>Lieut: Col. Whalthrop of Horſe.</item>
+               <item>Lieut: Col. Dunbarre.</item>
+               <item>Lieut: Col. William Hamilton.</item>
+               <item>Lieut: Col. Dundaſſe.</item>
+               <item>Lieut: Col. Alexander Engliſh.</item>
+               <item>Lieut: Col. Craford.</item>
+            </list>
+            <list>
+               <head>Majors.</head>
+               <item>Henry Carmihil.</item>
+               <item>James Cranſton, of Horſe.</item>
+               <item>George Moat.</item>
+               <pb n="8" facs="tcp:115851:5"/>
+               <!-- PDF PAGE 49 -->
+               <item>George Forbus, Refor<g ref="char:EOLhyphen"/>mado.</item>
+               <item>William Jeremy.</item>
+               <item>George Steward.</item>
+               <item>James Bickerton Ad<g ref="char:EOLhyphen"/>jutant Gen. of Horſe.</item>
+               <item>George Cample Scout maſter General.</item>
+               <item>Mr. Galleſpy Miniſter.</item>
+               <item>Mr. John Wangle Mi<g ref="char:EOLhyphen"/>niſter.</item>
+               <item>Mr. Alex Jeffery of the Committee of Eſtates</item>
+               <item>Mr. Tho: Jeffery Ma<g ref="char:EOLhyphen"/>jor of Aberdeen.</item>
+            </list>
+            <list>
+               <head>Captains of Foot.</head>
+               <item>Belon</item>
+               <item>James Sterline.</item>
+               <item>Francis Nue.</item>
+               <item>Agree.</item>
+               <item>Sibbald.</item>
+               <item>Alex. Montegreff</item>
+               <item>George Halliburton</item>
+               <item>Tho: Brown</item>
+               <item>Bonner</item>
+               <item>William Murray</item>
+               <item>James Scot</item>
+               <item>William Rutherford</item>
+               <item>James Maculray</item>
+               <item>Hugh Montgomery</item>
+               <item>James Aiken</item>
+               <item>George Smith</item>
+               <item>John Mackihellan</item>
+               <item>Robert Mackihellan</item>
+               <item>Hugh Madole</item>
+               <item>George Pingle</item>
+               <item>Robert Scot</item>
+               <item>Alexander Wood</item>
+               <item>Robert Hamilton</item>
+               <item>Tho: Gray</item>
+               <item>Robert Adamſon</item>
+               <item>Robert Duncan</item>
+               <item>Robert Mancanla</item>
+               <item>Walter Scot</item>
+               <item>Matthew Creſhton</item>
+               <pb n="9" facs="tcp:115851:5"/>
+               <!-- PDF PAGE 49 -->
+               <item>James Steward</item>
+               <item>William Douglas</item>
+               <item>Walter Leſley</item>
+               <item>Wanchop, of Horſe</item>
+               <item>James Borthock</item>
+               <item>Daniel Murray</item>
+               <item>John Murray</item>
+               <item>William Burton</item>
+               <item>James Camil</item>
+               <item>Capt. Roger Hamilton</item>
+               <item>Capt. Robert Wood</item>
+               <item>Capt. William Blayre</item>
+               <item>Capt. Rob: Anderſon.</item>
+            </list>
+            <list>
+               <head>Lieutenants of Foot.</head>
+               <item>James Cunningham</item>
+               <item>James Blackwood</item>
+               <item>Patrick Marnal</item>
+               <item>Henry Cunningham</item>
+               <item>Lancelot Car</item>
+               <item>John Macknight</item>
+               <item>John Hume</item>
+               <item>John Gourdon</item>
+               <item>George Cunningham</item>
+               <item>George Weare</item>
+               <item>Henry Eſton</item>
+               <item>Nichola Cowſton</item>
+               <item>Alexander Steward</item>
+               <item>William Petre</item>
+               <item>Norman Leſley</item>
+               <item>William Gladſton</item>
+               <item>Robert Hamilton</item>
+               <item>Gen: Mackburn</item>
+               <item>Robert Strahan</item>
+               <item>Richard Allen</item>
+               <item>James Mackbey</item>
+               <item>George Diſſet</item>
+               <item>James Nichols</item>
+               <item>John Car</item>
+               <item>Thomas Mennib</item>
+               <item>William Sims</item>
+               <item>Alexander Car</item>
+               <item>James Twede</item>
+               <item>William Leich</item>
+               <item>James Suiers</item>
+               <item>John Moor</item>
+               <pb n="10" facs="tcp:115851:6"/>
+               <!-- PDF PAGE 50 -->
+               <item>Andrew Kenner</item>
+               <item>Baily</item>
+               <item>John Rich</item>
+               <item>John Camel</item>
+               <item>William Knocks</item>
+               <item>Thomas Anderſon</item>
+               <item>Lancaſter Car</item>
+               <item>James Monnorgome</item>
+               <item>Thomas Car</item>
+               <item>James Twede</item>
+               <item>James Armer</item>
+               <item>James Smer</item>
+               <item>Andrew Kenner</item>
+               <item>Jo: Camel</item>
+               <item>John Steward</item>
+               <item>Allen Osborn</item>
+               <item>John Wilſon</item>
+               <item>Walter Wanhop</item>
+               <item>Patrick Warberton</item>
+               <item>William Ingles</item>
+               <item>Alexander Gourdon</item>
+               <item>Samuel Gourdon</item>
+               <item>Lancaſter Harkenſon</item>
+               <item>Robert Rankin</item>
+               <item>Cha: Colemine</item>
+               <item>John Rawſon</item>
+               <item>Andrew Guiler</item>
+               <item>George Totterſon</item>
+               <item>Thomas Hutchen</item>
+               <item>John Emnes</item>
+               <item>John Skew</item>
+               <item>John Hunter</item>
+               <item>John Markdoughal</item>
+               <item>Andrew Drumon</item>
+               <item>George Moale</item>
+               <item>Francis Scot</item>
+               <item>Alexander Kiff</item>
+               <item>John Markdoughil</item>
+               <item>George Leſley</item>
+               <item>William Livery</item>
+               <item>John Denant</item>
+               <item>William Elliot</item>
+               <item>Geo. Windram Cornet.</item>
+               <item>Thomas Collerwood Cornet.</item>
+               <item>Patrick Lindſey Cor<g ref="char:EOLhyphen"/>net.</item>
+               <pb n="11" facs="tcp:115851:6"/>
+               <!-- PDF PAGE 50 -->
+               <item>Captain William Briſ<g ref="char:EOLhyphen"/>bon, of Horſe.</item>
+               <item>William Cunningham Cornet.</item>
+               <item>James Maxwel Cornet</item>
+               <item>Jam. Denham Cornet.</item>
+               <item>James Bruſe Lieut: of Horſe.</item>
+               <item>John Magel Cornet.</item>
+               <item>Walter Steward Cor<g ref="char:EOLhyphen"/>net.</item>
+               <item>John Hay Cornet.</item>
+               <item>William Danrimple Captain of Foot.</item>
+               <item>Captain Charls Kerk<g ref="char:EOLhyphen"/>patrick.</item>
+               <item>C. Nich: Lawſon.</item>
+               <item>Cornet Ja: Magavile.</item>
+               <item>Cornet John Brown.</item>
+               <item>Cornet Alex. Michel.</item>
+            </list>
+            <list>
+               <head>Quartermaſters of Horſe.</head>
+               <item>Tho: Richinſon.</item>
+               <item>William Fabus.</item>
+            </list>
+            <list>
+               <head>Enſigns of Foot.</head>
+               <item>Kilpatrick</item>
+               <item>Walter Mac Doghal</item>
+               <item>William Sanckle</item>
+               <item>George Jack</item>
+               <item>Hartley Gud</item>
+               <item>William Carnetuſs</item>
+               <item>Thomas Wallis</item>
+               <item>Andrew Myan</item>
+               <item>James Bennet</item>
+               <item>John Linſey</item>
+               <item>Andrew Hanna</item>
+               <item>Thomas Pringle</item>
+               <item>Robert Hamilton</item>
+               <item>James Delap</item>
+               <item>John Gunny</item>
+               <item>John Edwards</item>
+               <item>Col: Camel</item>
+               <item>Heatly</item>
+               <item>Robert Ray</item>
+               <item>Gilbert Hurral</item>
+               <item>James Musket</item>
+               <item>William Simple</item>
+               <item>Robert Ogleby</item>
+               <pb n="12" facs="tcp:115851:7"/>
+               <!-- PDF PAGE 51 -->
+               <item>Robert Williamſon</item>
+               <item>William Leſley</item>
+               <item>Ersbield Shields</item>
+               <item>Robert Habern</item>
+               <item>William Scot</item>
+               <item>James Edmaſton</item>
+               <item>Robert Lawſon</item>
+               <item>James Newen</item>
+               <item>Andrew Bathick</item>
+               <item>George Elphenſon</item>
+               <item>John Hindiſe</item>
+               <item>Henry Whittle</item>
+               <item>Andrew Donnalſon</item>
+               <item>David Kenede</item>
+               <item>John Camel</item>
+               <item>Dunkin Kemel</item>
+               <item>Cornelius Engles</item>
+               <item>Patrick Calion</item>
+               <item>William Mawod</item>
+               <item>Henry Kerkelrik</item>
+               <item>Alex: Chalmers</item>
+               <item>George Crime</item>
+               <item>James Rede</item>
+               <item>John Somervil</item>
+               <item>John Abenille</item>
+               <item>John Clark</item>
+               <item>Alexander Breme</item>
+               <item>William Chapman</item>
+               <item>John Muckin</item>
+               <item>Alexander Spence</item>
+               <item>John Mark</item>
+               <item>Thomas Thompſon</item>
+               <item>John Dixon</item>
+               <item>John Smith</item>
+               <item>Alexander Johnſon</item>
+               <item>William Egger</item>
+               <item>David Grant</item>
+               <item>George Guyle</item>
+               <item>John Wallis</item>
+               <item>John Kemen</item>
+               <item>Thomas Anderſon</item>
+               <item>James Brewſe</item>
+               <item>William Mamblan</item>
+               <item>James Carmihil</item>
+               <item>William Walſin</item>
+               <item>William Anderſon</item>
+               <item>James Dunbarre</item>
+               <item>James Calderwood</item>
+               <pb n="13" facs="tcp:115851:7"/>
+               <!-- PDF PAGE 51 -->
+               <item>Hugh Rey</item>
+               <item>Thomas Bayde</item>
+               <item>David Beed</item>
+               <item>Robert Craw</item>
+               <item>George Calley</item>
+               <item>James Rutherford</item>
+               <item>Walter Scot</item>
+               <item>Walter Steward</item>
+               <item>Robert Henne</item>
+               <item>James Facquer</item>
+               <item>James Marmath</item>
+               <item>Henry Ackman</item>
+               <item>John Weare</item>
+               <item>John Brown-Lee</item>
+               <item>David Bisket</item>
+               <item>George Hinderſon</item>
+               <item>John Blacketter</item>
+               <item>Alexander Michil</item>
+               <item>Alexander Baily</item>
+               <item>Robert Wallwood</item>
+               <item>John Watſon</item>
+               <item>William Greere</item>
+               <item>John Crawford</item>
+               <item>William Wilſon</item>
+               <item>John Dunbar</item>
+               <item>Samuel Gurdon</item>
+               <item>John Munins</item>
+               <item>John Cunningham</item>
+               <item>William Staolm</item>
+               <item>Alexander Guthery</item>
+               <item>John Hunter</item>
+               <item>Adam Luckey</item>
+               <item>Andrew Mayrey</item>
+               <item>Robert Macktellon</item>
+               <item>Robert Gerne</item>
+               <item>John Mackews</item>
+               <item>James Brotherſton</item>
+               <item>William Gentry</item>
+               <item>Edward Sincler</item>
+               <item>Andrew Brede</item>
+               <item>Robert Hunter</item>
+               <item>John Gray.</item>
+            </list>
+            <list>
+               <head>Sergeants</head>
+               <item>Henry Muckerry</item>
+               <item>Alexander Sibbet</item>
+               <item>Gilbert Gray</item>
+               <pb n="14" facs="tcp:115851:8"/>
+               <!-- PDF PAGE 52 -->
+               <item>James Ellis</item>
+               <item>Collin Gardner</item>
+               <item>John Axenhead</item>
+               <item>John Hogg</item>
+               <item>William Watſon</item>
+               <item>John Mackwel</item>
+               <item>James Lyel</item>
+               <item>James Coddel</item>
+               <item>John Morris</item>
+               <item>Adam Kerk</item>
+               <item>Captain Robert Ru<g ref="char:EOLhyphen"/>therford, of Foot.</item>
+               <item>Captain John Car, of Foot.</item>
+            </list>
+            <p>The whole Number of Officers and private
+Soldiers taken, Ten thouſand.</p>
+            <p>Four thouſand ſlain.</p>
+            <p>Thirty two pieces of Ordnance of all ſorts.</p>
+            <p>Two hundred Colours, Horſe and Foot.</p>
+            <p>All their Arms, Tents, Bag and Baggage.</p>
+         </div>
+         <div type="proclamation">
+            <pb n="15" facs="tcp:115851:8"/>
+            <!-- PDF PAGE 52 -->
+            <head>The Lord Generals Proclamation con<g ref="char:EOLhyphen"/>cerning the wounded men left in the Field.</head>
+            <p>FOraſmuch as I underſtand there are ſeveral Soldiers of the Enemies Ar<g ref="char:EOLhyphen"/>my yet abiding in the Field, who by reaſon of their wounds could not march from thence: Theſe are therefore to give notice to the Inhabitants of this Nation, that they may and have free liberty to repair to the Field aforeſaid, and with their Carts, or any other peaceable way, to carry the ſaid Soldiers to ſuch places as they ſhall think fit; provided they meddle not or take away any the Arms there; and all Officers and Soldiers are to take notice that the ſame is permitted.</p>
+            <closer>
+               <dateline>Given under my Hand at <hi>Dunbar.</hi> 
+                  <date>
+                     <hi>Sept.</hi> 4. 1650.</date>
+               </dateline>
+               <signed>
+                  <hi>To be Proclaimed by beat of Drum.</hi> O: CROMVVEL.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
